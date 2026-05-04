@@ -1,0 +1,15 @@
+{
+  "stage1_labels": [
+    "neutral",
+    "nonneutral"
+  ],
+  "stage2_labels": [
+    "negative",
+    "positive"
+  ],
+  "final_labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ]
+}
